@@ -6,7 +6,7 @@ class PersonKotlin {
     }
 }
 
-//Top-level
+
 fun main() {
     val p = PersonKotlin()
     p.greeting()
